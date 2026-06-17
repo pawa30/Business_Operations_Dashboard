@@ -1,86 +1,65 @@
-**Business Operations \& Competitor Analysis Dashboard**
+# Business Operations Analytics Dashboard
 
+## Project Overview
 
+This project simulates the responsibilities of a Business Operations Analyst by analyzing application performance, operational expenses, and competitor activity.
 
-**Overview**
+The solution was built using SQL Server, Microsoft Excel, and Power BI.
 
+---
 
+## Tools Used
 
-This project simulates a Business Operations Analyst workflow by tracking application performance, operational expenses, and competitor metrics using SQL Server and Microsoft Excel.
+- SQL Server Management Studio (SSMS)
+- SQL
+- Microsoft Excel
+- Power BI
 
+---
 
+## Key Features
 
-**Tools Used**
+- Application Performance Tracking
+- Revenue Analysis
+- Download Analysis
+- Competitor Benchmarking
+- Operational Expense Monitoring
+- KPI Dashboard
+- Interactive Power BI Reporting
 
+---
 
+## SQL Analysis
 
-\* SQL Server Management Studio (SSMS)
+Key queries include:
 
-\* SQL
+- Total Revenue
+- Total Downloads
+- Average Rating
+- Revenue Ranking
+- Revenue Per User
+- Expense Analysis
 
-\* Microsoft Excel
+---
 
+## Dashboard KPIs
 
+- Total Revenue
+- Total Downloads
+- Average Rating
+- Total Expenses
 
-**Key Features**
+---
 
+## Key Insights
 
+- QuickCart generated the highest revenue.
+- StudyBuddy and SmartNotes achieved the highest customer ratings.
+- Operational expenses increased steadily over the year.
+- Competitor applications showed strong performance in shopping and education categories.
 
-\* Revenue Analysis
+---
 
-\* Download Analysis
+## Project Outcome
 
-\* Competitor Benchmarking
-
-\* Operational Expense Tracking
-
-\* KPI Dashboard
-
-\* Pivot Table Reporting
-
-
-
-**SQL Analysis**
-
-
-
-The project includes SQL queries for:
-
-
-
-\* Total Revenue
-
-\* Revenue Ranking
-
-\* Highest Rated Applications
-
-\* Revenue Per User
-
-\* Expense Analysis
-
-
-
-**Dashboard Metrics**
-
-
-
-\* Total Revenue
-
-\* Total Downloads
-
-\* Average Rating
-
-\* Total Expenses
-
-\* Top Performing Applications
-
-
-
-**Business Insights**
-
-
-
-The dashboard provides actionable insights for operational monitoring and decision-making.
-
-
-
+The dashboard provides a centralized view of operational performance and supports data-driven business decisions.
